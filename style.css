@@ -4,16 +4,20 @@
 body{
     background:url(image/image9.jpg)  ;
     background-position: fixed;
+    /* fixée le fond d'écran */
     background-size: cover;
 }
 table{
     margin: auto;
     border-radius: 10px;
     border-color:  black;
+    /* couloré la bordure */
     border-width: 10px;
+    /* sert à definir la taille de la bordure */
 }
 td{
     text-align: center;
+    /* sert à avoir un texte centrée */
     border-width: 10px;
     border-color: gray;
 }
@@ -30,6 +34,7 @@ h1{
 color: rebeccapurple;
 
 font-family: 'Farsan', cursive;
+/* cela modifie la police d'écriture */
 
 
 
@@ -48,7 +53,7 @@ a{
     border-width: thick;
     background-color: white;
     transition: 0.5s;
- 
+ /* tout cela sert à modifiée les lien */
    
 
 }   
@@ -58,6 +63,7 @@ img{
 }
 a:hover{
     background: gold;
+    /* transition */
 }
 video{
     border-radius: 10px;
