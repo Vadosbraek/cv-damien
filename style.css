@@ -1,0 +1,77 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Farsan&display=swap');
+body{
+    background:url(image9.jpg)  ;
+    background-position: fixed;
+    background-size: cover;
+}
+table{
+    margin: auto;
+    border-radius: 10px;
+    border-color:  black;
+    border-width: 10px;
+}
+td{
+    text-align: center;
+    border-width: 10px;
+    border-color: gray;
+}
+th{
+    border-width: 10px;
+    border-color: black;
+    
+}
+
+
+h1{
+    
+    
+color: rebeccapurple;
+
+font-family: 'Farsan', cursive;
+
+
+
+   /* j'avais mal positioné les commende CSS */
+}
+*{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+
+
+}
+ :any-link{color: blueviolet;}
+a{
+    border-style: inset;border-radius: 100px;
+    border-color: black;
+    border-width: thick;
+    background-color: white;
+    transition: 0.5s;
+ 
+   
+
+}   
+img{
+    border-radius: 30px;
+    
+}
+a:hover{
+    background: gold;
+}
+video{
+    border-radius: 10px;
+}
+
+ol,p{
+    text-align: justify;
+    background-color: rgba(21 118 142 / 65%);
+   
+}
+ul,p{
+    background-color: rgba(21 118 142 / 65%);
+    margin: 99px;
+}
+h2{
+    color: red;
+}
